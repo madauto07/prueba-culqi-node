@@ -1,4 +1,4 @@
-# Tokenizador de Tarjetas de Credito 👋
+# Tokenizador de Tarjetas de Credito
 
 
 > API para tokenizar los datos de la tarjeta de credito 
@@ -40,11 +40,11 @@ Se envia al endpoint POST **/api/v1/creditCard/GenerarToken** los siguientes dat
     "card_number": "51111111111111"
 }
 ```
-![Token de Tarjeta de Credito](https://github.com/madauto07/prueba-culqi-node/blob/master/imgs/generarToken.png?raw=true)
+![Token de Tarjeta de Credito](https://github.com/madauto07/prueba-culqi-node/blob/main/imgs/generarToken.png?raw=true)
 
 Ahora usamos el metodo POST **/api/v1/creditCard/verificarToken**
 y enviamos el token por el Header de tipo Bearer
-![Verificacion de Token](https://github.com/madauto07/prueba-culqi-node/blob/master/imgs/verificarToken.png?raw=true)
+![Verificacion de Token](https://github.com/madauto07/prueba-culqi-node/blob/main/imgs/verificarToken.png?raw=true)
 
 ## Author
 
