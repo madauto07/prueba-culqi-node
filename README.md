@@ -44,7 +44,7 @@ Se envia al endpoint POST **/api/v1/creditCard/GenerarToken** los siguientes dat
 
 Ahora usamos el metodo POST **/api/v1/creditCard/verificarToken**
 y enviamos el token por el Header de tipo Bearer
-![Verificacion de Token](https://github.com/madauto07/prueba-culqi-node/blob/main/imgs/verificarToken.png?raw=true)
+![Verificacion de Token](https://github.com/madauto07/prueba-culqi-node/blob/main/imgs/VerificarToken.png?raw=true)
 
 ## Author
 
